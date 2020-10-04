@@ -31,3 +31,29 @@
 [Modern HTML & CSS From The Beginning (Including Sass) by Udemy](https://www.udemy.com/course/modern-html-css-from-the-beginning/)
 
 [Using Glitch for Developer Relations](https://glitch.dev)
+
+## Tools
+
+[Codeanywhere](https://codeanywhere.com/) is a Cloud Integrated Development Environment. Our Cloud IDE saves you time by deploying a development environment in seconds, enabling you to code, learn, build, and collaborate on your projects.
+
+[Adobe Brackets](https://github.com/adobe/brackets) is a modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.
+
+[Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/) is a powerful Photoshop-like CSS gradient editor from [ColorZilla](https://www.colorzilla.com).
+
+[CSS Gradient](https://cssgradient.io/) is a happy little website and free tool that lets you create a gradient background for websites.
+
+[Glitch](https://glitch.com) makes easier to build fast, full-stack web apps in your browser for free.
+
+[CSS Optimizer](https://www.csstidyonline.com) is an online tool to clean, compress, and optimize your CSS code.
+
+[Sciter](https://github.com/c-smile/sciter-sdk) is an embeddable HTML/CSS/scripting engine, Windows, MacOS and Linux.
+
+[Flexy](https://vladocar.github.io/flexy/) is minimal CSS framework made with Flex.
+
+[Simple CSS](https://www.hostm.com/css) is a tool that allows you to easily create Cascading Style Sheets from scratch, and modify existing ones, using a familiar point-and-click interface. With Simple CSS, you can manage multiple CSS projects, import existing .css files as desired, and export projects to .css files.
+
+[Conditional-CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Conditional_Rules) is a CSS module that allows to define a set of rules that will only apply based on the capabilities of the processor or the document the style sheet is being applied to.
+
+[Kotatsu](https://github.com/Yomguithereal/kotatsu) is a straightforward CLI tool aiming either at running node.js scripts or serving JavaScript/TypeScript web applications in a modern environment.
+
+[AWK](https://awk.js.org/) is a scripting language used for manipulating data and generating reports.
