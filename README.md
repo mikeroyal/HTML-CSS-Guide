@@ -34,6 +34,8 @@
 
 ## Tools
 
+[WebStorm](https://www.jetbrains.com/webstorm/) is a professional IDE for JavaScript(including support for both HTML and CSS) developed by JetBrains. WebStorm comes with intelligent code completion, on-the-fly error detection, powerful navigation and refactoring for JavaScript, TypeScript, stylesheet languages, and all the most popular frameworks([Angular](https://angular.io/), [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Ionic](https://ionicframework.com/), [Apache Cordova](https://cordova.apache.org/), [React Native](https://reactnative.dev/), [Node.js](https://nodejs.org/), [Meteor](https://www.meteor.com/#!), and [Electron](https://www.electronjs.org/)).
+
 [Codeanywhere](https://codeanywhere.com/) is a Cloud Integrated Development Environment. Our Cloud IDE saves you time by deploying a development environment in seconds, enabling you to code, learn, build, and collaborate on your projects.
 
 [Adobe Brackets](https://github.com/adobe/brackets) is a modern open-source code editor for HTML, CSS and JavaScript that's built in HTML, CSS and JavaScript.
