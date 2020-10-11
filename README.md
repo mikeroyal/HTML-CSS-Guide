@@ -4,7 +4,7 @@
   HMTL/CSS Guide
 </h1>
 
-#### A guide covering HMTL/CSS programming languages including the applications and tools that will make you a better and more efficient HMTL/CSS developer.
+#### A guide covering the HMTL/CSS languages including the applications and tools that will make you a better and more efficient HMTL/CSS developer.
 
 ## Resources
 
