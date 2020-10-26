@@ -20,6 +20,8 @@
 
 [CSS Tutorial](https://www.w3schools.com/Css/)
 
+[Microsoft Certified Solutions Associate (MCSA): Web Applications](https://docs.microsoft.com/en-us/learn/certifications/mcsa-web-applications-certification)
+
 [Intro to HTML/CSS: Making webpages by Khanacademy](https://www.khanacademy.org/computing/computer-programming/html-css)
 
 [Intro to HTML and CSS by Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001)
