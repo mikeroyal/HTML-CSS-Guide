@@ -6,7 +6,14 @@
 
 #### A guide covering the HMTL/CSS languages including the applications and tools that will make you a better and more efficient HMTL/CSS developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118560913-176fbc80-b71f-11eb-99b3-52ec6ecb6208.png">
+  <br />
+</p>
+
+# HMTL/CSS Learning Resources
 
 [HTML (HyperText Markup Language)](https://developer.mozilla.org/en-US/docs/Web/HTML) is the basic building blocks of the Web. It defines the meaning and structure of web content along with other technologies used to describe a web page's appearance/presentation using CSS or functionality/behavior using JavaScript.
 
@@ -34,7 +41,7 @@
 
 [Using Glitch for Developer Relations](https://glitch.dev)
 
-## Tools
+# HMTL/CSS Tools and Frameworks
 
 [WebStorm](https://www.jetbrains.com/webstorm/) is a professional IDE for JavaScript(including support for both HTML and CSS) developed by JetBrains. WebStorm comes with intelligent code completion, on-the-fly error detection, powerful navigation and refactoring for JavaScript, TypeScript, stylesheet languages, and all the most popular frameworks([Angular](https://angular.io/), [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Ionic](https://ionicframework.com/), [Apache Cordova](https://cordova.apache.org/), [React Native](https://reactnative.dev/), [Node.js](https://nodejs.org/), [Meteor](https://www.meteor.com/#!), and [Electron](https://www.electronjs.org/)).
 
@@ -61,3 +68,13 @@
 [Kotatsu](https://github.com/Yomguithereal/kotatsu) is a straightforward CLI tool aiming either at running node.js scripts or serving JavaScript/TypeScript web applications in a modern environment.
 
 [AWK](https://awk.js.org/) is a scripting language used for manipulating data and generating reports.
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/HMTL-CSS-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
